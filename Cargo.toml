@@ -1,0 +1,12 @@
+[package]
+name = "cost_analysis"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+egui = "0.30.0"
+jzon = "0.12.5"
+eframe = "0.30.0"
+egui_extras = "0.30.0"
