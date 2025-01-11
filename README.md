@@ -1,0 +1,1 @@
+Just a simple EGUI implementation for a rent calculator. Personal written software, just to auto calculate and store my options locally. Writes to a json file, saves pet count, saves all rent data upon changes. Filters by every field, except for links, because why. 
